@@ -205,3 +205,11 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+.git/objects/pack/pack-654bd207c291822e48bebbd0e75ec5230c8589af.pack
+data/processed/faf_long_2018_2024.csv
+data/raw/extracted/FAF5.7.1.csv
+.git/objects/pack/pack-654bd207c291822e48bebbd0e75ec5230c8589af.pack
+data/processed/faf_long_2018_2024.csv
+data/raw/extracted/FAF5.7.1.csv
+data/raw/extracted/FAF5.7.1.csv
+data/processed/faf_long_2018_2024.csv
